@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Hey!</h1>
+
+<p>My favorite color is <span style="color:turquoise;font-weight:bold">turquoise</span></p>
+
+</body>
+</html>
+
+
